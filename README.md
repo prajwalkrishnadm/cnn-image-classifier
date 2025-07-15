@@ -20,6 +20,8 @@ Used the pre-filtered [Cats vs Dogs Dataset](https://storage.googleapis.com/mled
 ## 📊 Results
 Achieved ~85% validation accuracy in 5 epochs.
 
+<img width="556" height="435" alt="training_validation_accuracy" src="https://github.com/user-attachments/assets/6c59472e-509e-42e9-8eb2-cd0b9b61c673" />
+
 ## 🚀 How to Run
 You can open and run this notebook in Google Colab:
 [[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tKJ76j3ieSQte24Vqa2CB6oDdnQ5Ki8C?usp=sharing)]
